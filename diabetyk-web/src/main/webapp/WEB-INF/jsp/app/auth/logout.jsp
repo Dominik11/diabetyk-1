@@ -3,7 +3,7 @@
 <%@ page contentType="text/html" pageEncoding="UTF-8" %>
 <%@ taglib prefix="t" tagdir="/WEB-INF/tags" %>
 
-<t:genericpage title="Logowanie">
+<t:genericpage title="Wylogowywanie">
 
     <jsp:attribute name="html_extra_header"> 
         <link href="<c:url value="/resources/css/logout.css"/>" rel="stylesheet">

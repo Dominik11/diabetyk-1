@@ -3,7 +3,7 @@
 <%@ page contentType="text/html" pageEncoding="UTF-8" %>
 <%@ taglib prefix="t" tagdir="/WEB-INF/tags" %>
 
-<t:genericpage title="Logowanie">
+<t:genericpage title="Strona główna">
     <jsp:attribute name="html_extra_header">
         <link href="<c:url value="/resources/css/home.css"/>" rel="stylesheet">  
     </jsp:attribute>
@@ -119,15 +119,8 @@
 
                 </div>
 
-                <hr class="featurette-divider">
+                <hr class="featurette-divider"> 
 
-                <div class="row">
-
-                    <div style="height:30px;"></div>
-
-                    <center><p>Copyright © 2015, <a target="_blank" href="http://www.soft-project.pl ">soft-project.pl</a></p></center>
-
-                </div>
             </div>
         </div>
 

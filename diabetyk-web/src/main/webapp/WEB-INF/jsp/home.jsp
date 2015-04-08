@@ -111,23 +111,6 @@
 
         <hr class="featurette-divider">
 
-        <!-- /END THE FEATURETTES -->
-
-
-
-
-        <div class="container">
-            <div class="row">
-                <div style="height:30px;">
-
-                </div>
-                <div class="col-md-12"  >
-
-                    <p class="text-center ">Copyright © 2015, <a target="_blank" href="http://www.soft-project.pl ">soft-project.pl</a></p>
-                </div>
-            </div>
-        </div>
-
     </jsp:body>
 
 </t:genericpage>

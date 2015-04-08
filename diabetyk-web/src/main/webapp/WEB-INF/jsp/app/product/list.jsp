@@ -72,13 +72,7 @@
 
             </div> 
 
-
-
-            <p class="text-center ">Copyright © 2015, <a target="_blank" href="http://www.soft-project.pl ">soft-project.pl</a></p>
-
         </div>   
-
-
 
         <script>
             $(document).ready(function () {
